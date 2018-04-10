@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=x\ y\ velocidad\ retardo
+comment0.target=ALIENB(int,\ int,\ int,\ int)
+comment0.text=\n
+comment1.target=Image\ get_image_alienb()
+comment1.text=\n
+comment2.target=int\ get_posx_alienb()
+comment2.text=\n
+comment3.target=int\ get_posy_alienb()
+comment3.text=\n
+comment4.target=boolean\ visible_alienb()
+comment4.text=\n
+comment5.target=int\ get_alto_alienb()
+comment5.text=\n
+comment6.target=int\ get_ancho_alienb()
+comment6.text=\n
+comment7.params=v
+comment7.target=void\ set_visible_alienb(boolean)
+comment7.text=\n
+comment8.target=void\ mover_alienb()
+comment8.text=\n
+numComments=9

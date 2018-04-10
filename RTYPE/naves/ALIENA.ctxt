@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=x\ y\ velocidad\ retardo
+comment0.target=ALIENA(int,\ int,\ int,\ int)
+comment0.text=\n
+comment1.target=Image\ get_image_aliena()
+comment1.text=\n
+comment2.target=int\ get_posx_aliena()
+comment2.text=\n
+comment3.target=int\ get_posy_aliena()
+comment3.text=\n
+comment4.target=boolean\ visible_aliena()
+comment4.text=\n
+comment5.target=int\ get_alto_aliena()
+comment5.text=\n
+comment6.target=int\ get_ancho_aliena()
+comment6.text=\n
+comment7.params=v
+comment7.target=void\ set_visible_aliena(boolean)
+comment7.text=\n
+comment8.target=void\ mover_aliena()
+comment8.text=\n
+numComments=9

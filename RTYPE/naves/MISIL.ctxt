@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=x\ y\ velocidad
+comment0.target=MISIL(int,\ int,\ int)
+comment0.text=\n
+comment1.target=Image\ get_image_misil()
+comment1.text=\n
+comment2.target=int\ get_posx_misil()
+comment2.text=\n
+comment3.target=int\ get_posy_misil()
+comment3.text=\n
+comment4.target=boolean\ visible_misil()
+comment4.text=\n
+comment5.target=int\ get_alto_misil()
+comment5.text=\n
+comment6.target=int\ get_ancho_misil()
+comment6.text=\n
+comment7.params=v
+comment7.target=void\ set_visible_misil(boolean)
+comment7.text=\n
+comment8.target=void\ mover_misil()
+comment8.text=\n
+numComments=9
